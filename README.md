@@ -1,8 +1,6 @@
 # 🏡 Real Estate Market Analysis Using Power BI
 Power BI project analyzing real estate data to uncover market trends, pricing patterns, and location-based insights using interactive dashboards.
 
-# 📋 Project Link (PowerBi File (pbix)):
-
 
 # 📌 Project Overview
 
