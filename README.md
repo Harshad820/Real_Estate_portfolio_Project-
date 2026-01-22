@@ -1,6 +1,9 @@
 # 🏡 Real Estate Market Analysis Using Power BI
 Power BI project analyzing real estate data to uncover market trends, pricing patterns, and location-based insights using interactive dashboards.
 
+# 📋 Project Link (PowerBi File (pbix)):
+
+
 # 📌 Project Overview
 
 This project focuses on analyzing a real estate dataset using Power BI to uncover market trends, pricing patterns, and performance insights.
@@ -25,7 +28,7 @@ Property condition and furnishing status
 Agent and owner information
 Sales and listing status
 
-🔑 Key Insights (Based on Narrative)
+# 🔑 Key Insights (Based on Narrative)
 
 - The real estate market is mainly driven by sale listings, showing strong buyer demand.
 - A few cities contribute most of the total market value, making them key focus areas.
@@ -61,7 +64,7 @@ Sales and listing status
 - How to create interactive dashboards and drill-throughs.
 
 # 📸 Screenshots
-## 📌 Dashboard 1: Executive Overview Dashboard
-![](https://github.com/Harshad820/-Digital-Media-Store/blob/main/code%20file/images.jpg)
+## 📌 Dashboard 1:Overall Performance Of The Real Estate Market
+![](https://github.com/Harshad820/Real_Estate_portfolio_Project-/blob/main/Dashboards/Screenshot%202026-01-22%20231749.png)
 ## 📌 Dashboard 2: City & Location Analysis Dashboard
-![](https://github.com/Harshad820/-Digital-Media-Store/blob/main/code%20file/images.jpg)
+![](https://github.com/Harshad820/Real_Estate_portfolio_Project-/blob/main/Dashboards/Screenshot%202025-12-21%20114625.png)
